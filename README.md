@@ -7,7 +7,7 @@
 # Re: MechaCar Analysis 
 
 # Overview of Project
-## As discussed, we performed several studies related to our current business. In addition to the following text, the attached document () contains relevant screenshots.
+## As discussed, we performed several studies related to our current business. In addition to the following text, the attached document (Screenshots for Module 15.pdf) contains relevant screenshots.
 
 # Results
 ##
