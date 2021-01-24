@@ -7,7 +7,7 @@
 # Re: MechaCar Analysis 
 
 # Overview of Project
-## As discussed, we performed several studies related to our current business. In addition to the following text, the attached document (Screenshots for Module 15.pdf) contains relevant screenshots.
+## As discussed, we performed several studies related to our current business. In addition to the following text, the attached document (https://github.com/Thomson1923/MechaCar_Statistical_Analysis/blob/main/Screenshots%20for%20Module%2015.pdf) contains relevant screenshots.
 
 # Results
 ##
